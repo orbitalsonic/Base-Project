@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917240066297",
+    "project_id": "live-satellite-view-testing",
+    "storage_bucket": "live-satellite-view-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917240066297:android:8f340ac54c283b28d07228",
+        "android_client_info": {
+          "package_name": "com.orbitalsonic.baseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917240066297-3urud0qt2g4e1q1rn0kv98m56k3kvrnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXosl7fQuDxvHstBo3Uj6fnC9zqCGs8-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917240066297-3urud0qt2g4e1q1rn0kv98m56k3kvrnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
